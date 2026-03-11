@@ -2,6 +2,3 @@ fastapi
 uvicorn
 sqlalchemy
 pydantic
-requests
-beautifulsoup4
-lxml
